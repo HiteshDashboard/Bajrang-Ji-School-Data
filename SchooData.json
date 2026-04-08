@@ -21,7 +21,18 @@
       "address": "jherli"
     }
   ],
-  "feeRecords": [],
+  "feeRecords": [
+    {
+      "receipt": "REC-98757",
+      "date": "08/04/2026",
+      "sid": "STU-348892",
+      "name": "aman",
+      "class": "10",
+      "month": "3",
+      "year": "2026",
+      "total": 1500
+    }
+  ],
   "feeRules": [
     {
       "class": "10",
