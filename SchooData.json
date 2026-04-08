@@ -1,16 +1,5 @@
 {
-  "students": [
-    {
-      "id": "BBCS-397486",
-      "name": "mohan",
-      "gender": "Male",
-      "class": "11",
-      "father": "monu",
-      "mother": "devi",
-      "mobile": "9999999998",
-      "subjects": []
-    }
-  ],
+  "students": [],
   "feeRecords": [
     {
       "receipt": "REC-98757",
