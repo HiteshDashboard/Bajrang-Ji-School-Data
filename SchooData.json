@@ -19,6 +19,16 @@
       "subjects": "maths",
       "mobile": "9999999997",
       "address": "jherli"
+    },
+    {
+      "id": "BBCS-397486",
+      "name": "mohan",
+      "gender": "Male",
+      "class": "11",
+      "father": "monu",
+      "mother": "devi",
+      "mobile": "9999999998",
+      "subjects": []
     }
   ],
   "feeRecords": [
