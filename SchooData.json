@@ -28,6 +28,12 @@
       "type": "fixed",
       "tuition": 1000,
       "transport": 500
+    },
+    {
+      "class": "11",
+      "type": "subject",
+      "tuition": 1000,
+      "transport": 500
     }
   ]
 }
