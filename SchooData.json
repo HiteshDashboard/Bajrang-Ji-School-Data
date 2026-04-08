@@ -29,6 +29,15 @@
       "mother": "devi",
       "mobile": "9999999998",
       "subjects": []
+    },
+    {
+      "id": "BBCS-397487",
+      "name": "mohan",
+      "gender": "Male",
+      "class": "11",
+      "father": "a",
+      "mother": "a",
+      "subjects": []
     }
   ],
   "feeRecords": [
