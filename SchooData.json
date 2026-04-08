@@ -12,17 +12,5 @@
       "total": 1500
     }
   ],
-  "feeRules": [
-    {
-      "class": "10",
-      "tuition": 1000,
-      "transport": 500,
-      "subjects": [
-        {
-          "name": "maths",
-          "price": 550
-        }
-      ]
-    }
-  ]
+  "feeRules": []
 }
