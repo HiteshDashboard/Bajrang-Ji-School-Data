@@ -1,16 +1,6 @@
 {
   "students": [
     {
-      "id": "STU-397485",
-      "name": "neha",
-      "class": "11",
-      "father": "suresh",
-      "mother": "manju devi",
-      "subjects": "maths",
-      "mobile": "9999999997",
-      "address": "jherli"
-    },
-    {
       "id": "BBCS-397486",
       "name": "mohan",
       "gender": "Male",
