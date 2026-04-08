@@ -58,6 +58,17 @@
       "type": "subject",
       "tuition": 1000,
       "transport": 500
+    },
+    {
+      "class": "10",
+      "tuition": 1000,
+      "transport": 500,
+      "subjects": [
+        {
+          "name": "maths",
+          "price": 550
+        }
+      ]
     }
   ]
 }
