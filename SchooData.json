@@ -9,6 +9,16 @@
       "subjects": "",
       "mobile": "9999999998",
       "address": "pilani"
+    },
+    {
+      "id": "STU-397485",
+      "name": "neha",
+      "class": "11",
+      "father": "suresh",
+      "mother": "manju devi",
+      "subjects": "maths",
+      "mobile": "9999999997",
+      "address": "jherli"
     }
   ],
   "feeRecords": [],
