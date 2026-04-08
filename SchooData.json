@@ -1,5 +1,16 @@
 {
-  "students": [],
+  "students": [
+    {
+      "id": "STU-348892",
+      "name": "aman",
+      "class": "10",
+      "father": "rohitash",
+      "mother": "monu devi",
+      "subjects": "",
+      "mobile": "9999999998",
+      "address": "pilani"
+    }
+  ],
   "feeRecords": [],
   "feeRules": []
 }
