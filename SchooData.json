@@ -22,5 +22,12 @@
     }
   ],
   "feeRecords": [],
-  "feeRules": []
+  "feeRules": [
+    {
+      "class": "10",
+      "type": "fixed",
+      "tuition": 1000,
+      "transport": 500
+    }
+  ]
 }
